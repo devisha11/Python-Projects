@@ -1,0 +1,23 @@
+# Core dependencies
+deepchem==2.7.1
+tensorflow==2.10.0  # Compatible with Python 3.8
+numpy
+pandas
+scikit-learn
+
+# Optional dependencies for extended model support
+# Uncomment only if you need these
+
+# HuggingFace Transformers (for NLP models like HuggingFaceModel)
+# transformers==4.33.3
+
+# PyTorch and PyTorch Geometric (for GNN models like DMPNN)
+# torch==1.13.1
+# torch_geometric==2.3.1  # Requires manual installation per https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+
+# JAX support (for JAX-based models)
+# jax==0.4.23
+# jaxlib==0.4.23
+
+# PyTorch Lightning (for custom training)
+# lightning==2.1.1
