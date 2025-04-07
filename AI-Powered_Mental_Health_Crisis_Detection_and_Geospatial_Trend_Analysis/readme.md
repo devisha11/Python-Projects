@@ -33,7 +33,7 @@ Prerequisites:
 -Twitter API Key
 
 Installation:
-git clone https://github.com/your-username/mental-health-crisis-nlp.git  
+git clone https://github.com/devisha11/Python-Projects/AI-Powered_Mental_Health_Crisis_Detection_and_Geospatial_Trend_Analysis
 cd mental-health-crisis-nlp  
 
 References:
