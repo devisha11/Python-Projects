@@ -25,6 +25,7 @@ Future Scope:
 -Multi-language support
 -Integration with public health systems
 
+
 How to Install and Run the Project:
 
 Prerequisites: 
